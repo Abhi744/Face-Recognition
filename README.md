@@ -1,4 +1,4 @@
-# Face-Recognition
+# Datasets
 
 Link to the training dataset : https://drive.google.com/open?id=1trcGo5kQCG51j37ndBKW83bp2Alm3DdJ
 
